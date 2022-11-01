@@ -1,0 +1,13 @@
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\bin\Debug\WinFormPages.exe.config
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\bin\Debug\WinFormPages.exe
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\bin\Debug\WinFormPages.pdb
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\obj\Debug\WF_ModernUI.csproj.AssemblyReference.cache
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\obj\Debug\WF_ModernUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\obj\Debug\WinFormPages.Form1.resources
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\obj\Debug\WinFormPages.Properties.Resources.resources
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\obj\Debug\WF_ModernUI.csproj.GenerateResource.cache
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\obj\Debug\WF_ModernUI.csproj.CoreCompileInputs.cache
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\obj\Debug\WinFormPages.exe
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\obj\Debug\WinFormPages.pdb
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\obj\Debug\WinFormPages.FormMenu.resources
+C:\Users\uliss\source\repos\WinFormPages\WinFormPages\obj\Debug\WinFormPages.Form2.resources
